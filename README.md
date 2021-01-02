@@ -2,7 +2,7 @@
 
 This is the course project of CSE 891 (Fall 2020) at Michigan State University. 
 
-In this project, I have extracted a network of co-authorship relations between researchers (i.e., those in the top-300 highest hindex according to Google scholar and have collaborated at least once with each other) and analyzed centrality measure, link prediction, and community detection using machine learning techniques. The distinct parts of this project:  
+This project aims at analyzing a network of co-authorship relations between researchers (i.e., those in the top-300 highest hindex according to Google scholar and have collaborated at least once with each other). It includes network creation from XML data, data exploration, centrality measure using degree centrality, eigenvalue centrality, and local clustering coefficient. Also, it predicts missing link from the original network using Logistic Regression. Finally, it detects a set of connected components (communities) using a K-means clustering based community detection algorithm. The distinct parts of this project:  
 
 ## Network data creation 
 
