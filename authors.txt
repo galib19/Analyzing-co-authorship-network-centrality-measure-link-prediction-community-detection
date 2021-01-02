@@ -1,0 +1,165 @@
+1 Aaron C. Courville
+2 Alan L. Yuille
+3 Alan S. Willsky
+4 Alex Krizhevsky
+5 Alex Smola
+6 Alexandre Gramfort
+7 Ali Farhadi
+8 Anders Krogh
+9 Andrea Vedaldi
+10 Andrew McCallum
+11 Andrew Y. Ng
+12 Andrew Zisserman
+13 Armando Fox
+14 Arnaud Doucet
+15 Bernt Schiele
+16 Bertrand Thirion
+17 Bill Triggs
+18 Bing Liu
+19 Bram van Ginneken
+20 Carl Edward Rasmussen
+21 Carlos Guestrin
+22 Chih-Jen Lin
+23 Chin-Hui Lee
+24 Chris H. Q. Ding
+25 Christian Szegedy
+26 Christopher M. Bishop
+27 Corinna Cortes
+28 Dacheng Tao
+29 Daniel Cremers
+30 Daniele Bonacorsi
+31 Daphne Koller
+32 David Heckerman
+33 David Jones
+34 David M. Blei
+35 David Silver
+36 David Warde-Farley
+37 Deva Ramanan
+38 Diederik P. Kingma
+39 Dimitris N. Metaxas
+40 Dragomir Anguelov
+41 Dumitru Erhan
+42 Fabian Pedregosa
+43 Fedor Ratnikov
+44 Fei-Fei Li 0001
+45 Fernando Pereira
+46 Francis Bach
+47 Geoffrey E. Hinton
+48 Geoffrey Ye Li
+49 Georgios B. Giannakis
+50 Gong Zhang
+51 Greg Corrado
+52 Guang-Bin Huang
+53 Guillermo Sapiro
+54 Hermann Ney
+55 Horst Bischof
+56 Hugo Larochelle
+57 Ilya Sutskever
+58 Inderjit S. Dhillon
+59 Isabelle Guyon
+60 Jason Weston
+61 Javier M. Duarte
+62 Jean Ponce
+63 Jeff Dean
+64 Jeff Donahue
+65 Jianming Zhang
+66 Jimmy Ba
+67 Jiri Matas
+68 Jitendra Malik
+69 Johan A. K. Suykens
+70 Johannes Brandstetter
+71 John C. Platt
+72 John Langford 0001
+73 John Shawe-Taylor
+74 Jorge Nocedal
+75 Jos C. Prncipe
+76 Joshua B. Tenenbaum
+77 Jure Leskovec
+78 Jyh-Shing Roger Jang
+79 K. J. Ray Liu
+80 Kaiming He
+81 Koray Kavukcuoglu
+82 Krystian Mikolajczyk
+83 Kunal Talwar
+84 Kyunghyun Cho
+85 Laurens van der Maaten
+86 Laurent El Ghaoui
+87 Lei Zhang
+88 Licheng Jiao
+89 Lon Bottou
+90 Luc Van Gool
+91 Luca Benini
+92 Matei Zaharia
+93 Maurizio Pierini
+94 Max Welling
+95 Mehdi Mirza
+96 Michael Elad
+97 Michael I. Jordan
+98 Michael J. Black
+99 Michael J. Pazzani
+100 Michael Kagan
+101 Michael R. Lyu
+102 Michal Aharon
+103 Mike Schuster
+104 Navneet Dalal
+105 Nello Cristianini
+106 Nikos Paragios
+107 Nitish Srivastava
+108 Olivier Chapelle
+109 Oriol Vinyals
+110 P. Jonathon Phillips
+111 Pablo Tamayo
+112 Padhraic Smyth
+113 Pascal Fua
+114 Pascal Vincent
+115 Pierre Baldi
+116 Pieter Abbeel
+117 Pietro Perona
+118 Quoc V. Le
+119 Rama Chellapa
+120 Raymond Mooney
+121 Richard S. Sutton
+122 Richard Socher
+123 Rob Fergus
+124 Robert Tibshirani
+125 Roberto Castello
+126 Ron J. Weiss
+127 Ruslan Salakhutdinov
+128 Ryan Poplin
+129 Samy Bengio
+130 Santosh Kumar
+131 Sendhil Mullainathan
+132 Sepp Hochreiter
+133 Sergei Gleyzer
+134 Sergey Ioffe
+135 Shih-Fu Chang
+136 Shuicheng Yan
+137 Stan Z. Li
+138 Sumit Kumar
+139 Thomas Brox
+140 Thomas G. Dietterich
+141 Thomas Hofmann
+142 Thomas L. Griffiths
+143 Thorsten Joachims
+144 Tom M. Mitchell
+145 Tomas Mikolov
+146 Tomaso A. Poggio
+147 Tong Zhang
+148 Trevor Hastie
+149 Vincent Vanhoucke
+150 Vipin Kumar
+151 Vladimir Vapnik
+152 Wei-Ying Ma
+153 William Stafford Noble
+154 William W. Cohen
+155 Wolfram Burgard
+156 Xiaogang Wang
+157 Yair Weiss
+158 Yang Wang
+159 Yann LeCun
+160 Yi Ma
+161 Yoav Freund
+162 Yoram Singer
+163 Yoshua Bengio
+164 Zhi-Hua Zhou
+165 Zoubin Ghahramani
