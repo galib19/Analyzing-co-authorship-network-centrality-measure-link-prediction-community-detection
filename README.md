@@ -1,4 +1,4 @@
-# Analyzing-co-authorship-network-top-authors-identification-link-prediction-community-detection
+# Analyzing co-authorship network: Centrality Measure, Link Prediction, and Community Detection
 
 In this project, I have extracted a network of co-authorship relations between researchers (i.e., those in the top-300 highest hindex according to Google scholar and have collaborated at least once with each other) and analyzed centrality measure, link prediction, and community detection using machine learning techniques. The distinct parts of this project:  
 
