@@ -1,5 +1,7 @@
 # Analyzing co-authorship network: Centrality Measure, Link Prediction, and Community Detection
 
+This is the course project of CSE 891 (Fall 2020) at Michigan State University. 
+
 In this project, I have extracted a network of co-authorship relations between researchers (i.e., those in the top-300 highest hindex according to Google scholar and have collaborated at least once with each other) and analyzed centrality measure, link prediction, and community detection using machine learning techniques. The distinct parts of this project:  
 
 ## Network data creation 
