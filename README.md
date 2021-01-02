@@ -10,7 +10,7 @@ which contains 2 comma-separated columns, (authorID1, authorID2), if the two aut
 collaborated at least once in the past. The mapping from author name to author ID is given
 in the file authors.txt. Finally, I have visualized n co-authorship network with co-authorship links.
 
-## Data exploration
+## Data exploration (Centrality Measure)
 
 <ol>
 <li>Compute the number of nodes (vertices) and links (edges) of the network</li>
