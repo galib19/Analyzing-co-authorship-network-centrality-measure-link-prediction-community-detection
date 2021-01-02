@@ -15,7 +15,7 @@ in the file authors.txt.
 
 <ol>
 <li>Compute the number of nodes (vertices) and links (edges) of the network</li>
-<li>**Centrality Measure:**</li>
+  <li><strong>Centrality Measure:</strong></li>
   <ol>
   <li>**Degree Centrality**: Compute the degree (i.e., number of collaborators) associated
 with each author.</li>
@@ -31,9 +31,15 @@ Network visualization with co-authorship links
 
 ## Link Prediction 
 The objective of link prediction in network analysis is to infer missing
-links or recommend new links in a network. For this step, your tasks include
+links or recommend new links in a network. For this step, tasks include:
 <ol>
-<li>Remove some of the links in the original network to create a new, modified network.</li>
-<li>Use the modified network to train a logistic regression model.</li>
-<li>Apply the logistic regression model to predict the links that were removed in part.</li>
+<li>Removing some of the links in the original network to create a new, modified network.</li>
+<li>Using the modified network to train a logistic regression model.</li>
+<li>Applying the logistic regression model to predict the links that were removed in part 1.</li>
 </ol>
+
+## Community Detection
+
+The objective of community detection is to partition the network
+into a set of connected components (communities) such that nodes in the same community are
+more similar (connected) to each other compared to those belonging to different communities.
